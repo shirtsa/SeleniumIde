@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": "file:///c%3A/Users/nikol/Desktop/08-Exercise-CI-CD-GitHub-Actions-Resources/05-SeleniumIDE/.github/workflows/pipeline.yml"
+    }
+}
